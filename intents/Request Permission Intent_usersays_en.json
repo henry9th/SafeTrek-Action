@@ -1,0 +1,185 @@
+[
+  {
+    "id": "dcd85d06-5657-4cbf-9937-eba9dab0e41d",
+    "data": [
+      {
+        "text": "Call SafeTrek for ",
+        "userDefined": false
+      },
+      {
+        "text": "fire",
+        "alias": "help_type",
+        "meta": "@help_type",
+        "userDefined": true
+      },
+      {
+        "text": " help",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521254928
+  },
+  {
+    "id": "4672526f-a3fe-426a-8f77-6671b9f10ee4",
+    "data": [
+      {
+        "text": "Call SafeTrek for the ",
+        "userDefined": false
+      },
+      {
+        "text": "police",
+        "alias": "help_type",
+        "meta": "@help_type",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521254928
+  },
+  {
+    "id": "443b29a0-6631-4c75-bb6b-5064f96e9bd3",
+    "data": [
+      {
+        "text": "Call SafeTrek for ",
+        "userDefined": false
+      },
+      {
+        "text": "medical",
+        "alias": "help_type",
+        "meta": "@help_type",
+        "userDefined": true
+      },
+      {
+        "text": " help",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521254928
+  },
+  {
+    "id": "a47a76a5-9893-4aa7-b3d1-438a85122c0f",
+    "data": [
+      {
+        "text": "Call SafeTrek for help",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521254928
+  },
+  {
+    "id": "bcb744ad-b4b0-4b87-b3ab-ca6ad10028ee",
+    "data": [
+      {
+        "text": "Call SafeTrek for ",
+        "userDefined": false
+      },
+      {
+        "text": "medical",
+        "alias": "help_type",
+        "meta": "@help_type",
+        "userDefined": true
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "police",
+        "alias": "help_type",
+        "meta": "@help_type",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521254928
+  },
+  {
+    "id": "3b5c6b62-419a-4327-928d-72375da0431e",
+    "data": [
+      {
+        "text": "Tell SafeTrek it\u0027s an ",
+        "userDefined": false
+      },
+      {
+        "text": "emergency",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521254928
+  },
+  {
+    "id": "6744eb0d-fd8f-4daf-b968-a829b7e58af3",
+    "data": [
+      {
+        "text": "Call SafeTrek for the ",
+        "userDefined": false
+      },
+      {
+        "text": "fire",
+        "alias": "help_type",
+        "meta": "@help_type",
+        "userDefined": true
+      },
+      {
+        "text": " department",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521254928
+  },
+  {
+    "id": "f7b00309-c72b-45b6-9f88-c1bd82ef26aa",
+    "data": [
+      {
+        "text": "Call SafeTrek for ",
+        "userDefined": false
+      },
+      {
+        "text": "law enforcement",
+        "alias": "help_type",
+        "meta": "@help_type",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521254928
+  },
+  {
+    "id": "f6887f3c-7a63-4d2c-b671-319c30ed6987",
+    "data": [
+      {
+        "text": "Tell SafeTrek I\u0027m in danger",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521254928
+  },
+  {
+    "id": "a769ff82-ff91-4e5f-8166-86c670a520a6",
+    "data": [
+      {
+        "text": "Call SafeTrek",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521254928
+  }
+]

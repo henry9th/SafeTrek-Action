@@ -1,0 +1,43 @@
+{
+  "id": "f47f0b9b-d36e-4df4-9c0b-50726282989f",
+  "name": "Call for Help",
+  "auto": true,
+  "contexts": [
+    "helpParameters"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.call",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "5b7c707b-a687-4f9e-ab18-e4538b78ea96",
+          "required": true,
+          "dataType": "@help_type",
+          "name": "help_type",
+          "value": "#helpParameters.help_type"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1521266472,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "actions_intent_PERMISSION"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+[
+  {
+    "value": "law_enforcement",
+    "synonyms": [
+      "law_enforcement",
+      "police",
+      "cops"
+    ]
+  },
+  {
+    "value": "medical",
+    "synonyms": [
+      "medical"
+    ]
+  },
+  {
+    "value": "fire",
+    "synonyms": [
+      "fire"
+    ]
+  },
+  {
+    "value": "all",
+    "synonyms": [
+      "all",
+      "panice",
+      "everything"
+    ]
+  }
+]

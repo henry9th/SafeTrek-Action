@@ -1,0 +1,50 @@
+{
+  "id": "59539e17-b525-4a9b-b896-16e1b416b5c9",
+  "name": "Request Permission Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.request",
+      "affectedContexts": [
+        {
+          "name": "helpParameters",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "fbd3cf63-cb44-42f4-914c-81ef55fe7996",
+          "required": true,
+          "dataType": "@help_type",
+          "name": "help_type",
+          "value": "$help_type",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What kind of help are you in need of?"
+            }
+          ],
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1521254928,
+  "fallbackIntent": false,
+  "events": []
+}

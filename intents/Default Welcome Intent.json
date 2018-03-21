@@ -1,0 +1,33 @@
+{
+  "id": "57f7fefc-45a2-4bcf-b66f-bd22b46f6455",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Hello and welcome to the SafeTrek app for google Assistant. If you are in need of help, please say \"Tell Safetrek to call for help\" and specify whether it is medical, police, or fire help that is needed. You may also specify panic or all if all three are needed."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1521616096,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ]
+}
